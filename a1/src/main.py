@@ -27,12 +27,12 @@ def main():
     max_data[key], _ = _kadane(data[key])
 
   avg_data = [(sum(data[city]) / len(data[city])) for city in data.keys()]
-  summer_ratio = [(max_data[city] / sum(data[city])) for city in data.keys()]
+  summer_ratio = [(1.0 * max_data[city] / sum(data[city])) for city in data.keys()]
 
   plt.scatter(avg_data, summer_ratio)
   z = np.polyfit(avg_data, summer_ratio, 1)
   p = np.poly1d(z)
-  plt.plot(avg_data, p(avg_data), 'r--')
+  plt.plot(avg_data, p(avg_data), 'r-')
 
   plt.xlabel('Average Sunny Hours Per Month')
   plt.ylabel('Proportion of Sunny Hours in Summer Months')

@@ -11,6 +11,18 @@ Baltimore,Sep,8,222
 Baltimore,Oct,9,204
 Baltimore,Nov,10,159
 Baltimore,Dec,11,145
+Birminham,Jan,0,138
+Birminham,Feb,1,152
+Birminham,Mar,2,207
+Birminham,Apr,3,248
+Birminham,May,4,293
+Birminham,Jun,5,294
+Birminham,Jul,6,269
+Birminham,Aug,7,265
+Birminham,Sep,8,244
+Birminham,Oct,9,234
+Birminham,Nov,10,182
+Birminham,Dec,11,136
 Boise,Jan,0,108
 Boise,Feb,1,152
 Boise,Mar,2,238
@@ -35,6 +47,18 @@ Chicago,Sep,8,226
 Chicago,Oct,9,193
 Chicago,Nov,10,113
 Chicago,Dec,11,106
+Detroit,Jan,0,90
+Detroit,Feb,1,128
+Detroit,Mar,2,180
+Detroit,Apr,3,212
+Detroit,May,4,263
+Detroit,Jun,5,295
+Detroit,Jul,6,321
+Detroit,Aug,7,284
+Detroit,Sep,8,226
+Detroit,Oct,9,189
+Detroit,Nov,10,98
+Detroit,Dec,11,89
 Houston,Jan,0,144
 Houston,Feb,1,141
 Houston,Mar,2,193
@@ -59,6 +83,18 @@ Kansas City,Sep,8,252
 Kansas City,Oct,9,229
 Kansas City,Nov,10,171
 Kansas City,Dec,11,140
+Las Vegas,Jan,0,244
+Las Vegas,Feb,1,248
+Las Vegas,Mar,2,313
+Las Vegas,Apr,3,345
+Las Vegas,May,4,387
+Las Vegas,Jun,5,402
+Las Vegas,Jul,6,390
+Las Vegas,Aug,7,368
+Las Vegas,Sep,8,336
+Las Vegas,Oct,9,303
+Las Vegas,Nov,10,246
+Las Vegas,Dec,11,235
 Miami,Jan,0,222
 Miami,Feb,1,227
 Miami,Mar,2,266
@@ -107,6 +143,18 @@ New York,Sep,8,235
 New York,Oct,9,213
 New York,Nov,10,169
 New York,Dec,11,155
+Omaha,Jan,0,167
+Omaha,Feb,1,158
+Omaha,Mar,2,207
+Omaha,Apr,3,231
+Omaha,May,4,275
+Omaha,Jun,5,315
+Omaha,Jul,6,331
+Omaha,Aug,7,297
+Omaha,Sep,8,246
+Omaha,Oct,9,217
+Omaha,Nov,10,147
+Omaha,Dec,11,133
 Phoenix,Jan,0,248
 Phoenix,Feb,1,244
 Phoenix,Mar,2,314
@@ -119,6 +167,18 @@ Phoenix,Sep,8,334
 Phoenix,Oct,9,307
 Phoenix,Nov,10,267
 Phoenix,Dec,11,236
+Providence,Jan,0,170
+Providence,Feb,1,175
+Providence,Mar,2,217
+Providence,Apr,3,225
+Providence,May,4,254
+Providence,Jun,5,273
+Providence,Jul,6,291
+Providence,Aug,7,263
+Providence,Sep,8,234
+Providence,Oct,9,207
+Providence,Nov,10,147
+Providence,Dec,11,148
 Richmond,Jan,0,172
 Richmond,Feb,1,179
 Richmond,Mar,2,233
@@ -143,6 +203,18 @@ Salt Lake City,Sep,8,306
 Salt Lake City,Oct,9,249
 Salt Lake City,Nov,10,171
 Salt Lake City,Dec,11,135
+San Diego,Jan,0,217
+San Diego,Feb,1,255
+San Diego,Mar,2,234
+San Diego,Apr,3,236
+San Diego,May,4,277
+San Diego,Jun,5,293
+San Diego,Jul,6,253
+San Diego,Aug,7,261
+San Diego,Sep,8,242
+San Diego,Oct,9,262
+San Diego,Nov,10,212
+San Diego,Dec,11,216
 San Francisco,Jan,0,165
 San Francisco,Feb,1,182
 San Francisco,Mar,2,251
