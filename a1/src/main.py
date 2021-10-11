@@ -36,7 +36,7 @@ def main():
 
   plt.xlabel('Average Sunny Hours Per Month')
   plt.ylabel('Proportion of Sunny Hours in Summer Months')
-  plt.title('Sunny Hours Per Month vs Proportion of Sun in Summer Months')
+  plt.title('Sunny Hours Per Month vs Proportion of Sun in Summer Months\n (Do sunny cities have less of their sunny hours in the summer?)')
   plt.tight_layout()
 
   plt.savefig(const.RESULTS_PATH + 'mhuang19_a1.png')

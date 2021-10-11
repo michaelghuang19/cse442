@@ -1,3 +1,5 @@
+"Do less sunny cities have more of their sunny hours in the summer?" (Or conversely, "Do more sunny cities have less of their overall sunny hours ")
+
 The question your visualization is attempting to answer.
 
 A description of why you chose the data transformations (if applicable) and visual encodings you used in order to address the question. This might include describing alternative designs you considered but ultimately chose not to use.
