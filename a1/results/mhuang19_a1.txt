@@ -1,4 +1,4 @@
-"Do less sunny cities have more of their sunny hours in the summer?" (Or conversely, "Do more sunny cities have less of their overall sunny hours ")
+"Do less sunny cities have more of their sunny hours in the summer?" ("Do more sunny cities have less of their overall sunny hours?", or more colloquially, "Do sunnier cities really have no seasons?")
 
 Oftentimes, we conceptualize the Summer as having higher temperatures, more sunny hours, and warmer weather, due to the way that the earth tilts towards the sun during the season. However, there is the concept that areas with more sun year-round, which we modeled as having higher average sunny hours per month overall, don't really undergo this kind of change--in other words, with more sun year-round, there is less seasonal change in this weather, even if it is Summertime in that area. I was curious about whether this concept is actually true, since I've often heard that perennially sunny areas don't have seasons and have the same level of sunlight throughout the year, while the meteorological facts of why the Summer season is the way it is persist. 
 
